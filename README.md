@@ -1,6 +1,6 @@
 # Technical Screening
 
-## Create by [Esther Muchai](https://github.com/mwerumuchai) 
+#### Created by [Esther Muchai](https://github.com/mwerumuchai) 
 
 ## Setup/Installation Requirements
 
