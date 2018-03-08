@@ -30,6 +30,8 @@ DEBUG =config('DEBUG',default=False,cast=bool)
 
 ALLOWED_HOSTS = ['*']
 
+# ratings
+STAR_RATINGS_RERATE = False
 
 # Application definition
 
@@ -41,6 +43,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'moviedb',
+    'star_ratings',
 ]
 
 MIDDLEWARE = [
